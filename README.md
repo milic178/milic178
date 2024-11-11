@@ -1,4 +1,4 @@
-# 👋 Bonjour, Hello, Hola, Konnichiwa! 
+# 👋 Bonjour, Hello, Hola, Konnichiwa, Zdravo! 
 
 I'm Marko, a PHP Developer from Slovenia 🇸🇮, currently based in Strasbourg, France 🇫🇷. With over **7 years** of expertise in backend development, API creation/integration, and system architecture, I’m passionate about writing clean, efficient code and collaborating on innovative projects.
 
