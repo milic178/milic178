@@ -59,6 +59,7 @@ In addition to my travels, I contributed to several volunteer projects:
 When I'm not coding, I love exploring the outdoors through **multiday hiking** and **cycle tourism**. I'm also passionate about **cooking**, always experimenting with new recipes and learning different culinary techniques.
 
 ---
-
+<!--  
 ### 📬 **Contact Me**
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/marko-milic178/) for inquiries or collaborations.
+-->
